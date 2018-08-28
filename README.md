@@ -1,2 +1,2 @@
 # hello-world
-Tradiational first step
+Traditional first step
